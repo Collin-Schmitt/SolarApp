@@ -1,0 +1,21 @@
+.stations {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .station {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .station h3 {
+    margin: 0 0 10px 0;
+  }
+  
+  .station p {
+    margin: 5px 0;
+  }
+  

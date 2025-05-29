@@ -1,0 +1,12 @@
+.banner {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .banner h2 {
+    margin: 0;
+  }
+  
